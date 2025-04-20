@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React-native**
 
-- 👨‍💻 All of my projects are available at [https://malek-maghraoui.netlify.app](https://malek-maghraoui.netlify.app)
+- 👨‍💻 All of my projects are available at [https://malek-maghraoui.vercel.app](https://malek-maghraoui.vercel.app)
 
 - 💬 Ask me about **react, node, next.js, taliwind..**
 
